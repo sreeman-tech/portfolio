@@ -118,18 +118,18 @@ const Home = () => (
           Bio
         </Heading>
         <BioSection>
-          <BioYear>1984</BioYear>
+          <BioYear>2005</BioYear>
           Born in Guntur (Andhra Pradesh), Indian.
         </BioSection>
         <BioSection>
           <BioYear>2010</BioYear>
           Completed the Master&apos;s Program in the Graduate School of
           Information Science at Nara Institute of Science and Technology
-          (奈良先端科学技術大学院大学情報科学研究科修士課程)
+
         </BioSection>
         <BioSection>
           <BioYear>2010</BioYear>
-          Worked at Yahoo! Japan (ヤフー株式会社入社)
+          Worked at Yahoo! USA
         </BioSection>
         <BioSection>
           <BioYear>2012 to present</BioYear>
@@ -160,24 +160,24 @@ const Home = () => (
         </Heading>
         <List>
           <ListItem>
-            <Link href="https://github.com/craftzdog" target="_blank">
+            <Link href="https://github.com/sreeman-tech" target="_blank">
               <Button
                 variant="ghost"
                 colorScheme="teal"
                 leftIcon={<IoLogoGithub />}
               >
-                @craftzdog
+                @sreeman-tech
               </Button>
             </Link>
           </ListItem>
           <ListItem>
-            <Link href="https://twitter.com/inkdrop_app" target="_blank">
+            <Link href="https://twitter.com/SreemanTech" target="_blank">
               <Button
                 variant="ghost"
                 colorScheme="teal"
                 leftIcon={<IoLogoTwitter />}
               >
-                @inkdrop_app (English)
+                @SreemanTech (English)
               </Button>
             </Link>
           </ListItem>
@@ -191,15 +191,15 @@ const Home = () => (
                 @craftzdog (日本語)
               </Button>
             </Link>
-          </ListItem>
+
           <ListItem>
-            <Link href="https://instagram.com/craftzdog" target="_blank">
+            <Link href="https://instagram.com/sreeman_2805" target="_blank">
               <Button
                 variant="ghost"
                 colorScheme="teal"
                 leftIcon={<IoLogoInstagram />}
               >
-                @craftzdog
+                @sreeman_2805
               </Button>
             </Link>
           </ListItem>
@@ -207,7 +207,7 @@ const Home = () => (
 
         <SimpleGrid columns={[1, 2, 2]} gap={6}>
           <GridItem
-            href="https://www.youtube.com/devaslife"
+            href="https://www.youtube.com/sreeman_2805"
             title="Dev as Life"
             thumbnail={thumbYouTube}
           >

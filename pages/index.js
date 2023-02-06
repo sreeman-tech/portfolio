@@ -37,7 +37,7 @@ const Home = () => (
         bg={useColorModeValue('whiteAlpha.500', 'whiteAlpha.200')}
         css={{ backdropFilter: 'blur(10px)' }}
       >
-        Hello, I&apos;m an indie app developer based in Japan!
+        Hello, I&apos;m an indie app developer based in India!
       </Box>
 
       <Box display={{ md: 'flex' }}>
@@ -119,7 +119,7 @@ const Home = () => (
         </Heading>
         <BioSection>
           <BioYear>1984</BioYear>
-          Born in Osaka (大阪), Japan.
+          Born in Guntur (Andhra Pradesh), Indian.
         </BioSection>
         <BioSection>
           <BioYear>2010</BioYear>
